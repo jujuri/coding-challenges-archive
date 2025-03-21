@@ -9,5 +9,3 @@ for i in range(t):
         if str(j) == "".join(sorted(list(str(j)))):
             print(f"Case #{i+1}: {j}")
             break
-    
-
